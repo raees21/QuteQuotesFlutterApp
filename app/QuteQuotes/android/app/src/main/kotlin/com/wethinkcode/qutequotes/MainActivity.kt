@@ -1,0 +1,6 @@
+package com.wethinkcode.qutequotes
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
